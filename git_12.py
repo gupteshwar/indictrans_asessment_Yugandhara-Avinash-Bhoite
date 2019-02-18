@@ -1,3 +1,5 @@
+#question : 1.12 (**) Decode a run-length encoded list.
+# Given a run-length code list generated as specified in problem 1.11. Construct its uncompressed version.
 
 class find:
 	def decompress(self,x):

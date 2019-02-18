@@ -1,3 +1,4 @@
+#question : 1.05 (*) Reverse a list.
 
 class find:
 	def enter_list(self):

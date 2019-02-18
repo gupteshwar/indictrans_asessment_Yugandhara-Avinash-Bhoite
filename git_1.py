@@ -1,4 +1,4 @@
-
+#question : 1.01 (*) Find the last element of a list.
 
 class find:
 	def enter_list(self):

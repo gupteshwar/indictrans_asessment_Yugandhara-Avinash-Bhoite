@@ -1,3 +1,5 @@
+#question : 1.15 (**) Duplicate the elements of a list a given number of times.
+
 class find:
 	def enter_list(self):
 		input_element=raw_input('Enter comma seperated elements -')

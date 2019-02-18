@@ -1,3 +1,4 @@
+#question : 1.06 (*) Find out whether a list is a palindrome.
 
 class find:
 	def enter_list(self):

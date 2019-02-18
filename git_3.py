@@ -1,3 +1,4 @@
+#question : 1.03 (*) Find the K'th element of a list.
 
 class find:
 	def enter_list(self):

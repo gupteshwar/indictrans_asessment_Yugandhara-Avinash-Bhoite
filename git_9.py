@@ -1,3 +1,5 @@
+#question : 1.09 (**) Pack consecutive duplicates of list elements into sublists.
+#If a list contains repeated elements they should be placed in separate sublists.
 
 class find:
 	def enter_list(self):

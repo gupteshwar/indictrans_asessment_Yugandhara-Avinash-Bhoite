@@ -1,3 +1,4 @@
+#question : 1.07 (**) Flatten a nested list structure.
 
 from itertools import chain
 class find:

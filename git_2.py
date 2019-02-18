@@ -1,3 +1,4 @@
+#question : 1.02 (*) Find the last but one element of a list.
 
 import random
 class find:

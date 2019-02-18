@@ -1,3 +1,4 @@
+#question : 1.04 (*) Find the number of elements of a list.
 
 class find:
 	def enter_list(self):
